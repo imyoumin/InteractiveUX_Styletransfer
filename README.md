@@ -1,6 +1,6 @@
 #  :art: Style Transfer exhibition image formation
 
-Forming images of exhibition works using OPENCV, ADAIN algorithms and PHOTOMOSAIC
+Forming images of exhibition works using OoenCV, Adain algorithms and Photomosaic
 
 https://youtu.be/a1uRbrQQPDQ
 
