@@ -2,8 +2,6 @@
 
 Forming images of exhibition works using OPENCV, ADAIN algorithms and PHOTOMOSAIC
 
-<tutorial :point_down:>
-
 https://youtu.be/a1uRbrQQPDQ
 
 https://youtu.be/iSmpTQdZOmE
