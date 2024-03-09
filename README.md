@@ -13,7 +13,9 @@ https://youtu.be/iSmpTQdZOmE
 중앙대학교 예술공학대학 컴퓨터예술학부 임유민 20201607 
 
 ## :computer: Language
-PYTHON(OPENCV)
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=ffdd54" />
 
 ## :camera: Images
 ![R_IMAGE](https://github.com/imyoumin/InteractiveUX_styletransfer/assets/69343466/7e5d32ef-8bf1-4389-9266-fee260c07e0b)
